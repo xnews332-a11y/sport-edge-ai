@@ -1,0 +1,5 @@
+date,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds
+2025-01-01,Team A,Team B,2,1,1.90,3.40,4.20
+2025-01-08,Team B,Team C,0,0,2.10,3.10,3.60
+2025-01-15,Team C,Team A,1,2,2.80,3.20,2.45
+2025-01-22,Team A,Team C,3,1,1.75,3.60,4.60
